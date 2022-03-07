@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=fore0919&&show_icons=true&theme=dracula&locale=kr&count_private=true" width=50% />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=fore0919&&show_icons=true&theme=dracula&locale=kr&count_private=true" width=45% />
+</a>
 <a href="https://github.com/fore0919/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fore0919&layout=compact&langs_count=8&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" width=50% /> 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fore0919&layout=compact&langs_count=8&bg_color=282a36&title_color=ff6e96&text_color=f8f8f2" width=45% /> 
+</a>
 <!--
 **fore0919/fore0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
