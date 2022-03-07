@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=fore0919&&show_icons=true&theme=nightowl&locale=kr" width=50% />
+
 <!--
 **fore0919/fore0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
