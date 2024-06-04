@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fore0919)](https://github.com/fore0919/fore0919)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fore0919&langs_count=10)](https://github.com/fore0919?tab=repositories)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fore0919&hide_rank=true&&layout=compact)](https://github.com/fore0919/fore0919) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fore0919&langs_count=8&layout=compact)](https://github.com/fore0919)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fore0919)](https://velog.io/@fore0919)
