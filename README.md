@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 ### My Blog 📝
 ****
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fore0919)](https://velog.io/@fore0919)
-
-### My Portfolio Link 👉 [Notion](https://hulking-oval-981.notion.site/Kwon-Eun-Kyung-Backend-Developer-Portfolio-1d0a1c81148980dd9d34e7bdce12f778)
